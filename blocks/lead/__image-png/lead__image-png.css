@@ -1,0 +1,5 @@
+.lead__image-png{
+    position: absolute;
+    top: 90px;
+    left: calc((100% - 937px)/2);
+}
