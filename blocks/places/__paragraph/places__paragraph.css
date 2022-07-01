@@ -1,0 +1,11 @@
+.places__paragraph{
+    width: 484px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29.34px;
+    margin: 48px 0 26px;
+}
+
+.places__paragraph:nth-of-type(2n){
+    margin: 0;
+}
