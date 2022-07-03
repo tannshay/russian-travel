@@ -3,7 +3,14 @@
     font-size: 96px;
     line-height: 100px;
     width: 720px;
-    height: 200px;
     text-align: center;
     margin: 0;
+}
+
+@media (max-width: 768px){
+    .lead__title{
+        width: 288px;
+        font-size: 40px;
+        line-height: 44px;
+    }
 }

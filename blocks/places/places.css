@@ -5,3 +5,15 @@
     flex-direction: column;
     gap: 80px;
 }
+
+@media (max-width: 1024px){
+    .places{
+        gap: 73px;
+    }
+}
+
+@media (max-width: 768px){
+    .places{
+        gap: 64px;
+    }
+}
