@@ -1,5 +1,7 @@
 .header__lang-links{
-    width: 78px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
     display: flex;
-    justify-content: space-between;
+    gap: 18px;
 }
