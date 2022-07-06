@@ -1,25 +1,24 @@
 .lead__image{
     width: 100%;
     height: 615px;
-    padding: 90px auto;
     position: relative;
     background-size: contain;
     background-repeat: no-repeat;
 }
 
-@media (max-width: 1280px){
+@media (max-width: 1279px){
     .lead__image{
         height: 580px;
     }
 }
 
-@media (max-width: 1024px){
+@media (max-width: 1023px){
     .lead__image{
         height: 480px;
     }
 }
 
-@media (max-width: 768px){
+@media (max-width: 767px){
     .lead__image{
         height: 200px;
     }
