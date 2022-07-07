@@ -4,21 +4,19 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    width: 1184px;
+    max-width: 1184px;
     width: 100%;
     min-height: 740px;
 }
 
 @media (max-width: 1279px){
     .cover{
-        width: 1024px;
         min-height: 640px;
     }
 }
 
 @media (max-width: 1023px){
     .cover{
-        width: 768px;
         min-height: 480px;
         margin-top: 90px;
     }
@@ -26,7 +24,6 @@
 
 @media (max-width: 767px){
     .cover{
-        width: 320px;
         margin-top: 66px;
         min-height: 200px;
     }
