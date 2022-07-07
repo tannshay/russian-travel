@@ -1,15 +1,9 @@
 .cover__title{ 
-
-    max-width: 560px; 
-
-    font-weight: 900; 
-
-    font-size: 72px; 
-
-    line-height: 76px; 
-
-    margin: 0 0 32px 0; 
-
+    max-width: 560px;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    margin: 0 0 32px 0;
     text-align: center;
 } 
 
@@ -19,13 +13,9 @@
 
     .cover__title{ 
         max-width: 288px;
-
-        font-size: 32px; 
-
-        line-height: 35px; 
-
-        margin-bottom: 16px; 
-
+        font-size: 32px;
+        line-height: 35px;
+        margin-bottom: 16px;
     } 
 
 } 
