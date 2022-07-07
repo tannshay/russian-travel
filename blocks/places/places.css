@@ -8,12 +8,14 @@
 
 @media (max-width: 1023px){
     .places{
+        padding-top: 88px;
         gap: 73px;
     }
 }
 
 @media (max-width: 767px){
     .places{
-        gap: 64px;
+        padding-top: 64px;
+        gap: 50px;
     }
 }

@@ -1,15 +1,31 @@
-.cover__title{
-    max-width: 560px;
-    font-weight: 900;
-    font-size: 72px;
-    line-height: 76px;
-    margin: 0 0 32px 0;
-}
+.cover__title{ 
 
-@media (max-width: 767px){
-    .cover__title{
-        font-size: 32px;
-        line-height: 35px;
-        margin-bottom: 16px;
-    }
-}
+    max-width: 560px; 
+
+    font-weight: 900; 
+
+    font-size: 72px; 
+
+    line-height: 76px; 
+
+    margin: 0 0 32px 0; 
+
+    text-align: center;
+} 
+
+ 
+
+@media (max-width: 767px){ 
+
+    .cover__title{ 
+        max-width: 288px;
+
+        font-size: 32px; 
+
+        line-height: 35px; 
+
+        margin-bottom: 16px; 
+
+    } 
+
+} 

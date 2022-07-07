@@ -26,5 +26,6 @@
         align-items: flex-start;
         min-height: 310px;
         padding-top: 64px;
+        padding-left: 16px;
     }
 }

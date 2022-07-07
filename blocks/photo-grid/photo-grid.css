@@ -16,6 +16,7 @@
 
 @media (max-width: 1023px){
     .photo-grid{
+        padding-top: 88px;
     grid-template-columns: repeat(2, minmax(352px,1fr));
     grid-template-rows: repeat(4, minmax(264px,1fr));
     gap: 16px;
@@ -24,6 +25,7 @@
 
 @media (max-width: 767px){
     .photo-grid{
+        padding-top: 64px;
     grid-template-columns: minmax(288px,1fr);
     grid-template-rows: repeat(12, minmax(216px,1fr));
     gap: 12px;

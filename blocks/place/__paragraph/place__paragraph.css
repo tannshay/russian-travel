@@ -4,10 +4,6 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 29.34px;
-    margin: 48px 0 26px;
-}
-
-.place__paragraph:last-child {
     margin: 0;
 }
 
@@ -28,6 +24,5 @@
 @media (max-width: 767px){
     .place__paragraph{
         max-width: 288px;
-        margin: 32px 0 25px;
     }
 }
