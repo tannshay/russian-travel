@@ -1,6 +1,7 @@
 .lead{
     color: #fff;
-    width: 984px;
+    max-width: 984px;
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -9,19 +10,19 @@
 
 @media (max-width: 1279px){
     .lead{
-        width: 928px;
+        max-width: 928px;
         padding-top: 48px;
     }
 }
 
 @media (max-width: 1023px){
     .lead{
-        width: 768px;
+        max-width: 768px;
     }
 }
 
 @media (max-width: 767px){
     .lead{
-        width: 320px;
+        max-width: 320px;
     }
 }

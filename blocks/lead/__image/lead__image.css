@@ -2,8 +2,6 @@
     width: 100%;
     height: 615px;
     position: relative;
-    background-size: contain;
-    background-repeat: no-repeat;
 }
 
 @media (max-width: 1279px){

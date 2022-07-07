@@ -5,12 +5,12 @@
     display: flex;
     flex-direction: column;
     padding-top: 92px;
+    box-sizing: border-box;
 }
 
 @media (max-width: 1279px){
     .intro{
         max-width: 928px;
-        padding-left: 48px;
     }
 }
 
